@@ -1,2 +1,2 @@
-# odin-recopies
-My top 3 recipes
+# odin-recepies
+My top 3 recepies
